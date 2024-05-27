@@ -1,0 +1,77 @@
+.loot{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 3px;
+  margin-bottom: 3px;
+}
+
+.loot a{
+  size: 36px;
+}
+
+.loot ul li{
+  list-style-type:none;
+  color: #8B0000;
+  font-family: Charm;
+  font-size: 6rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+
+.bags{
+  text-align: center;
+  padding-left: 50px;
+  padding-top: 1px;
+  margin-top: 1px;
+  font-family: 'Advent Pro', sans-serif;
+  font-size:50px;
+  color: fuchsia;
+  
+  
+}
+
+.grid{
+  display: grid;
+  grid-template-columns:1fr 1fr;
+  place-items: center; 
+  width:100%;
+}
+
+.grid div{
+  width:87%;
+
+}
+.grid div img{
+  width:100%;
+}
+
+
+figcaption{
+  height: 50px;
+  font-size: 40px;
+  border-radius: 0px, 0px, 50px, 50px;
+  padding-left:27%;
+  padding-right: 34%;
+  font-family: sans-serif;
+  background: rgba(211, 211, 211, 1);
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom:35px ;
+  top: 50px;
+}
+
+.base{
+  display: flex;
+  justify-content: baseline;
+  align-items:baseline;
+}
+
+.next:active{
+  list-style:none;
+}

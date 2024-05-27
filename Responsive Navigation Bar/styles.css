@@ -1,0 +1,102 @@
+body{
+   background: #968f8fab;
+}
+
+.head{
+  height:3vh;
+  width:100%;
+  padding-top: 0em;
+  margin-bottom:68px;
+}
+
+
+.tail{
+  height:6vh;
+  width:100%;
+  padding-top: 34px;
+
+}
+
+.fist  {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.leg ul{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0px;
+  padding-left: 14%;
+  padding-right: 10%; 
+  margin-bottom: 67px;
+}
+
+.fist ul li{
+  list-style-type:none;
+  color: #000;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.fist img{
+  width: 2rem;
+  height: 2rem;
+  flex-shrink: 0;
+}
+.leg ul li{
+  list-style-type:none;
+  color: #000;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  cursor: pointer;
+}
+
+.leg ul li:hover{
+  color:#08080886
+}
+
+
+.list ul {
+  list-style-type: none;
+  height: 100%;
+}
+
+.list ul li{
+  text-align: center;
+  padding-left: 14%;
+  padding-right: 10%;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  padding-top: 56px;
+  padding-bottom:56px ;
+
+}
+.list ul li a{
+  text-decoration: none;
+  color: #000;
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 2.25rem;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  cursor: pointer;
+}
+
+.list ul li a:hover{
+  color:#cfafaf60;
+}
+
+.line{
+  text-decoration: underline;
+}

@@ -1,0 +1,103 @@
+.loot{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 3px;
+  margin-bottom: 3px;
+}
+
+.loot a{
+  size: 36px;
+}
+
+.loot ul li{
+  list-style-type:none;
+  color: #8B0000;
+  font-family: Charm;
+  font-size: 6rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+
+
+.section1 div img{
+  width: 964px;
+  height: 922px;
+}
+
+
+
+
+
+ .add {
+  text-align: center;
+  background: rgba(0, 0, 0, 1);
+  color: white;
+  width: 944px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 34px;
+  font-family: Advent Pro;
+  size: 789px;
+  height:60px;
+  border-radius: 5px;
+}
+
+.try{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.you{
+  width: 200px;
+  height: 141px;
+  top: 578px;
+  left: 116px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Advent Pro;
+  font-size: 24px;
+  font-weight: 250;
+  line-height: 23.92px;
+  text-decoration: underline;
+}
+
+.hard{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  text-align: center;
+}
+
+section div figcaption{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 45px;
+  background: rgba(211, 211, 211, 1);
+  width: 650.5px;
+  height: 78.35px;
+  top: 343px;
+  gap: 0px;
+  border-radius: 0px 0px 20px 20px;
+  opacity: 0px;
+  width: 964px;
+  font-size: 56px;
+  margin-left:160px ;
+
+}
+
+section div{
+  text-align: center;
+}
